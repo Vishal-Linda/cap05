@@ -5,4 +5,7 @@ for(let i=0;i<=number;i++){
    {
          fact++;
 }
-}if(fact
+}if(fact==2){
+
+
+}sf fdvdgsc
